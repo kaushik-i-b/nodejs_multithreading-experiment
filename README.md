@@ -1,1 +1,1 @@
-hi this is a experiment for to achieve multithreading in javascript nodejs
+hi this is a experiment to achieve multithreading in javascript nodejs
